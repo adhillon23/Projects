@@ -31,5 +31,11 @@ A C project that implements a data structure to perform the following operations
 11. Starting with accumulator = ar[0], for i=1..length-1 computes accumulator=f(accumulator,ar[i] and returns the accumulator
 12. Returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
 
+# Maze Solving Robot
+The purpose of this porject was to build a  miniature sized robot that was capable of solving a maze. The objective of the software was to allow our robot to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell using the quickes route. The main code is written in the file 'Program.cs'. 
+
+The following video provides a demonstration of our project: https://streamable.com/zws8tp
+
+
 
 
