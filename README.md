@@ -18,18 +18,18 @@ Part 2 gets a binary search tree and returns the maximal element. A seperate fun
 # Implementation of ADT of ints
 A C project that implements a data structure to perform the following operations on an array of ints:
 
-1. creates a new array of a given length
-2. returns the length of the array
-3. sets the value in the array at a specified index
-4. returns the value from the array at a specified index
-5. frees the array
-6. changes the size of the array
-7. creates a copy of the given array and returns it
-8. appends an array to the original array and returns a pointer to the resulting array
-9. returns the first index of the array containing the element
-10. for each index i=0... length-1, applies a function f to ar[i] and stores f(ar[i]) in ar[i]
-11. starting with accumulator = ar[0], for i=1..length-1 computes accumulator=f(accumulator,ar[i] and returns the accumulator
-12.returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
+1. Creates a new array of a given length
+2. Returns the length of the array
+3. Sets the value in the array at a specified index
+4. Returns the value from the array at a specified index
+5. Frees the array
+6. Changes the size of the array
+7. Creates a copy of the given array and returns it
+8. Appends an array to the original array and returns a pointer to the resulting array
+9. Returns the first index of the array containing the element
+10. For each index i=0... length-1, applies a function f to ar[i] and stores f(ar[i]) in ar[i]
+11. Starting with accumulator = ar[0], for i=1..length-1 computes accumulator=f(accumulator,ar[i] and returns the accumulator
+12. Returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
 
 
 
