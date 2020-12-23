@@ -37,8 +37,7 @@ The purpose of this porject was to build a  miniature sized robot that was capab
 The following video provides a demonstration of our project: https://streamable.com/zws8tp
 
 # Traffic Light Controller
-We created a traffic light system using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE. The traffic light would specifically be designed to control traffic in a high volume high way intersection.
-
+We created a traffic light system in C using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE by incroporating various circuitry equipment. The traffic light would specifically be designed to control traffic in a high volume high way intersection. 
 
 
 
