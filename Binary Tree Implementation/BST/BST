@@ -1,0 +1,23 @@
+      if (current->value > item)
+        current = current->left;
+      else
+        current = current->right;
+    }
+    if (prev->value > item)
+    {
+      printf("add %d to left of %d\n", item, prev->value);
+      set_left_child(prev, create_node(item));
+    }
+    else
+    {
+      printf("add %d to right of %d\n", item, prev->value);
+      set_right_child(prev, create_node(item));
+    }
+  }
+}
+
+// removes item from the Binary Search Tree
+void BST_remove(BST_t* tree, int item)
+{
+  // implement me
+}
