@@ -28,7 +28,7 @@ A C project that implements a data structure to perform the following operations
 8. Appends an array to the original array and returns a pointer to the resulting array
 9. Returns the first index of the array containing the element
 10. For each index i=0... length-1, applies a function f to ar[i] and stores f(ar[i]) in ar[i]
-11. Starting with accumulator = ar[0], for i=1..length-1 computes accumulator=f(accumulator,ar[i] and returns the accumulator
+11. Starting with accumulator = ar[0], for i=1..length-1 computes accumulator=f(accumulator,ar[i]) and returns the accumulator
 12. Returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
 
 # Maze Solving Robot
