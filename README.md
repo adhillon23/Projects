@@ -37,7 +37,11 @@ The purpose of this porject was to build a  miniature sized robot that was capab
 The following video provides a demonstration of our project: https://streamable.com/zws8tp
 
 # Traffic Light Controller
-We created a traffic light system in C using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE by incroporating various circuitry equipment. The traffic light would specifically be designed to control traffic in a high volume high way intersection. 
+We created a traffic light system in C using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE by incroporating various circuitry equipment. The traffic light was specifically  designed to control traffic in a high volume high way intersection. 
 
+# Design Optimization of a Wind Turbine
+In this project, I utilized MATLAB to optimizeE the design of a wind turbine. 
 
+Electricity from wind energy is one of the fastest growing methods of electrical generation on the planet today. A wind turbine is a device that converts the kinetic energy of wind into electrical power. Using wind energy reduces some of the negative impacts of generating electricity because it does not require the use of fuel to operate and does not produce pollution or greenhouse gases.
 
+In this project, a wind turbine with given parameters and constrains was optimized. Assuming the wind enters the turbine at a constant velocity of 12 m/s, the rotor diameter and the speed that maximized the extracted power was found. 
