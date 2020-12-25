@@ -32,7 +32,7 @@ A C project that implements a data structure to perform the following operations
 12. Returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
 
 # Maze Solving Robot
-The purpose of this porject was to build a  miniature sized robot that was capable of solving a maze. The objective of the software was to program our robot to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell using the quickes route. The main code is written in the file 'Program.cs'. 
+The purpose of this porject was to build a  miniature sized robot that was capable of solving a maze. The objective of the robot was to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell following the quickest route possible. The main code is written in the file 'Program.cs'. 
 
 The following video provides a demonstration of our project: https://streamable.com/zws8tp
 
@@ -40,8 +40,6 @@ The following video provides a demonstration of our project: https://streamable.
 We created a traffic light system in C using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE by incroporating various circuitry equipment. The traffic light was specifically  designed to control traffic in a high volume high way intersection. 
 
 # Design Optimization of a Wind Turbine
-In this project, I utilized MATLAB to optimize the design of a wind turbine. 
+In this project, I utilized MATLAB to optimize the design of a wind turbine. Electricity from wind energy is one of the fastest growing methods of electrical generation on the planet today. A wind turbine is a device that converts the kinetic energy of wind into electrical power. 
 
-Electricity from wind energy is one of the fastest growing methods of electrical generation on the planet today. A wind turbine is a device that converts the kinetic energy of wind into electrical power. Using wind energy reduces some of the negative impacts of generating electricity because it does not require the use of fuel to operate and does not produce pollution or greenhouse gases.
-
-In this project, a wind turbine with given parameters and constrains was optimized. Assuming the wind enters the turbine at a constant velocity of 12 m/s, the rotor diameter and the speed that maximized the extracted power was found. 
+In this project, a wind turbine with given parameters and constraints was optimized. Assuming the wind enters the turbine at a constant velocity of 12 m/s, the rotor diameter and the speed that maximized the extracted power was found. 
