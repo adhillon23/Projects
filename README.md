@@ -32,7 +32,7 @@ A C project that implements a data structure to perform the following operations
 12. Returns a new array contaning only the elements that satisfy f[element]==true, adjusting length accordingly
 
 # Maze Solving Robot
-The purpose of this porject was to build a  miniature sized robot that was capable of solving a maze. The objective of the robot was to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell following the quickest route possible. The main code is written in the file 'Program.cs'. 
+The purpose of this project was to build a miniature sized robot that was capable of solving a maze. The objective of the robot was to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell following the quickest route possible. The main code is written in the file 'Program.cs'. 
 
 The following video provides a demonstration of our project: https://streamable.com/zws8tp
 
