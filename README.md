@@ -1,6 +1,15 @@
 # Projects
 Hello! This repo contains some of the projects I have completed over the years. 
 
+# Mechatronics Design - Robotic Arm
+•	Built a pick-and-place robotic system by integrating mechanical, electrical, controls, and software strategies.
+•	Designed and modeled the brass cantilever truss arm in SolidWorks CADD software. Modeled/simulated FEA, stress strain and deformation analysis on arm by using SolidWorks and ANSYS.
+•	Designed and built a power interface, protoboard circuit for driving the DC motor of the truss arm by incorporating electronic components including an H-Bridge, BJTs, MOSFETS, and Opto-Isolators.
+•	Satisfied overshoot and tolerance specifications by using MATLAB and Simulink to develop a PID controller that moved the robotic arm from start to end position in the fastest possible time by regulating the power supplied to the circuit.
+
+Link to video demo: https://youtu.be/087ocBfqEeE
+
+
 # Traveling Sales Person
 A C++ project that implements a solver for the Traveling Salesperson Problem (TSP).
 
@@ -34,12 +43,10 @@ A C project that implements a data structure to perform the following operations
 # Maze Solving Robot
 The purpose of this project was to build a miniature sized robot that was capable of solving a maze. The objective of the robot was to travel through a maze reaching any predetermined target using as many moves as needed, then maneuvering back to the starting position cell following the quickest route possible. The main code is written in the file 'Program.cs'. 
 
-The following video provides a demonstration of our project: https://streamable.com/zws8tp
+The following video provides a demonstration of our project: https://youtu.be/xDiZQ3b7WbI
 
 # Traffic Light Controller
 We created a traffic light system in C using the TM4C123 MCU/Launchpad embedded microcontroller development system and Code Composer Studio IDE by incroporating various circuitry equipment. The traffic light was specifically  designed to control traffic in a high volume high way intersection. 
 
 # Design Optimization of a Wind Turbine
-In this project, I utilized MATLAB to optimize the design of a wind turbine. Electricity from wind energy is one of the fastest growing methods of electrical generation on the planet today. A wind turbine is a device that converts the kinetic energy of wind into electrical power. 
-
 In this project, a wind turbine with given parameters and constraints was optimized. Assuming the wind enters the turbine at a constant velocity of 12 m/s, the rotor diameter and the speed that maximized the extracted power was found. 
